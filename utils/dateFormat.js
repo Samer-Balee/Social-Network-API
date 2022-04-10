@@ -1,15 +1,10 @@
+// Require dayjs library
+const dayjs = require('dayjs');
 
+const dateFormat = function(date) {
+  
+  return dayjs(date).format('DD/MM/YYYY [at] hh:mm a');
+};
 
-//   var timestamp = 1607110465663
-// var date = new Date(timestamp);
+module.exports = dateFormat;
 
-// console.log("Date: "+date.getDate()+
-//           "/"+(date.getMonth()+1)+
-//           "/"+date.getFullYear()+
-//           " "+date.getHours()+
-//           ":"+date.getMinutes()+
-//           ":"+date.getSeconds());
-
-// const date = new Date();
-// const [month, day, year]       = [date.getMonth(), date.getDate(), date.getFullYear()];
-// const [hour, minutes, seconds] = [date.getHours(), date.getMinutes(), date.getSeconds()];
