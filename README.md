@@ -3,7 +3,9 @@
   ## Description
   Building an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
-  A walkthrough video demonstrating the functionality of the application here: 
+  A link to a walkthrough videos demonstrating the functionality of the application [video-1](https://drive.google.com/file/d/15KzvxLbFCs_JeSfDUsQo8Y9xg1C1dxAP/view) , [video-2](https://drive.google.com/file/d/1SepUn_KYaQ49gRKZNH40uowbq2KujYNq/view?usp=sharing)
+
+   
 
   ## Tables of Contents
   * [Technologies](#technologies)
@@ -52,14 +54,11 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
    * Run npm start
    * Use Insomnia to test the routes and the CRUD operations
 
-    Gif 1
-
-    Gif 2
-
-    gif 3
-
   ## Usage
-   ddd
+   
+   -Gif
+
+  ![Gif](assets/gif.gif)
   
   ## License
    For information about this license visit: [MIT](https://opensource.org/licenses/MIT)
