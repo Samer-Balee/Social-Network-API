@@ -3,7 +3,7 @@
   ## Description
   Building an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
-  A link to a walkthrough videos demonstrating the functionality of the application [video-1](https://drive.google.com/file/d/15KzvxLbFCs_JeSfDUsQo8Y9xg1C1dxAP/view) , [video-2](https://drive.google.com/file/d/1SepUn_KYaQ49gRKZNH40uowbq2KujYNq/view?usp=sharing)
+  A link to a walkthrough videos demonstrating the functionality of the application [video-1](https://drive.google.com/file/d/15KzvxLbFCs_JeSfDUsQo8Y9xg1C1dxAP/view?usp=sharing) , [video-2](https://drive.google.com/file/d/1SepUn_KYaQ49gRKZNH40uowbq2KujYNq/view?usp=sharing)
 
    
 
