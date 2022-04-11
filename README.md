@@ -56,9 +56,25 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
   ## Usage
    
-   -Gif
+   -Gif:
 
   ![Gif](assets/gif.gif)
+
+   -Screenshot-1:
+
+  ![Screenshot-7](assets/images/screenshot-7.PNG)
+
+   -Screenshot-2:
+
+  ![Screenshot-3](assets/images/screenshot-3.PNG)
+
+   -Screenshot-3:
+
+  ![Screenshot-2](assets/images/screenshot-2.PNG)
+
+   -Screenshot-4:
+
+  ![Screenshot-1](assets/images/screenshot-1.PNG)
   
   ## License
    For information about this license visit: [MIT](https://opensource.org/licenses/MIT)
